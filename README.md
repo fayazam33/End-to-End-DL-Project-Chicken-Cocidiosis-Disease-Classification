@@ -6,7 +6,7 @@
 Clone the repository
 
 ```
-https://github.com/entbappy/End-to-End-Deep-Learning-Project-Chicken-Disease
+https://github.com/fayazam33/End-to-End-DL-Project-Chicken-Cocidiosis-Disease-Classification
 ```
 ### STEP 01- Create a conda environment after opening the repository
 ```bash
